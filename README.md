@@ -1,6 +1,6 @@
 # mycode (Go Training Class)
 
-Go training
+Go trainin. And more textg
 
 ## Getting Started
 
